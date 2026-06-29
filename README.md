@@ -30,10 +30,11 @@ A sleek, real-time camera blurring application built with Python. The applicatio
 2. **Install the required dependencies:**
    ```bash
    pip install opencv-python mediapipe
+
    
 ## 💻 How to Run
 Launch the application directly from your terminal:
-  '''bash
-  python foto.py
+```bash
+python foto.py
 
 > 💡 Pro-Tip: Press the Esc key at any time while the camera window is focused to safely exit the application.
